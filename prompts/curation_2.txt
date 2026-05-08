@@ -1,0 +1,8 @@
+Given a question, return the same question changing core facts while keeping the numbers and core problem the same.
+Return only the question and no additional text.
+
+Question: Susan made 100 cookies for Christmas and was going to equally divide them between her 6 nephews. Before Susan could package them, her husband snuck 4 cookies for himself. How many cookies will each of Susan’s nephews get?
+New Question: Mala has baked 100 cupcakes for her 6 cousins to enjoy equally, but on their arrival, she finds that 4 cupcakes are spoiled. How many cupcakes will each cousin get?
+
+Question: [[question]]
+New Question: 

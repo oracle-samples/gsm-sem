@@ -1,0 +1,5 @@
+Given the following answer, write an appropriate question for which this answer would be correct. Make sure the question contains all specifications required to compute the answer correctly.
+Return only the question and no additional text.
+    
+Answer: [[answer]]
+Question:
